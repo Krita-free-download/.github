@@ -11,15 +11,15 @@
 
 🎯 What You Unlock
 
-    🎨 Full access to professional digital painting tools
+🎨 Full access to professional digital painting tools
 
-    🖌 Advanced brush engines and customizable workspace
+🖌 Advanced brush engines and customizable workspace
 
-    🖼 Support for multiple file formats (PSD, PNG, TIFF, etc.)
+🖼 Support for multiple file formats (PSD, PNG, TIFF, etc.)
 
-    🚫 No internet connection or activation required
+🚫 No internet connection or activation required
 
-    🛠 Open-source, cross-platform software
+🛠 Open-source, cross-platform software
 
 🖼 Preview
 
